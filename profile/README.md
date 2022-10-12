@@ -3,13 +3,13 @@ mana9er is a daemon framework for Minecraft. It monitors a Minecraft server and 
 
 mana9er acts entirely as an external daemon, that is, it interacts with the Minecraft server via standard I/O, just like an operator sitting in front of the console and typing commands reacting to the server output. As a result, it doesn't affect the game data at all, and you can add or remove it at any time without worrying about compatibility issues.
 
-## Deploy
-
-For deployment guide, see [deployment](../docs/en/deploy-mc.md).
-
 ## API
 
-For developer's guide, see [how-it-works](../docs/en/how-it-works.md) and [api](../docs/en/api.md).
+For developer's guide, see [how-it-works](https://github.com/mana9er/.github/blob/master/docs/en/how-it-works.md) and [api](https://github.com/mana9er/.github/blob/master/docs/en/api.md).
+
+## Deploy
+
+For deployment guide, see [deployment](https://github.com/mana9er/.github/blob/master/docs/en/deploy-mc.md).
 
 ## Plugin Examples
 
