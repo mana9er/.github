@@ -4,7 +4,7 @@ To use ***mana9er*** to manage your Minecraft server and experience various plug
 
 1. Download your Minecraft server and remember the path. Generally any version after 1.13 is OK.
 2. Clone the mana9er-core from [github](https://github.com/mana9er/mana9er-core).
-3. Modify the configuration file `config.json` (which will be further discussed in the next sector)
+3. Modify the configuration file `config.json` (which will be further discussed in the next section)
 4. Select your plugins and install them by placing plugin folders under mana9er-core folder. Your mana9er-core folder should look like:
 ```
 .
