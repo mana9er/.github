@@ -1,7 +1,7 @@
 # mana9er: a daemon framework for Minecraft
-mana9er is a daemon framework for Minecraft. It monitors a Minecraft server and provides API to interact with the server. The framework itself provides only API, so you need to use mana9er plugins to get additional features, like backup and restoration system, tps monitor, and chat forwarding.
+Mana9er is a daemon framework for Minecraft Server. It monitors a Minecraft server process and provides interfaces for interacting with the server. The framework provides only API, so you need to use mana9er plugins to get server-side features, like backup and restoration system, tps monitor, and chat forwarding.
 
-mana9er acts entirely as an external daemon, that is, it interacts with the Minecraft server via standard I/O, just like an operator sitting in front of the console and typing commands reacting to the server output. As a result, it doesn't affect the game data at all, and you can add or remove it at any time without worrying about compatibility issues.
+Mana9er acts entirely as an external daemon. It interacts with the Minecraft server via standard I/O, just like an operator sitting in front of the console and typing commands reacting to the server output. As a result, it doesn't affect the game save at all. You can add or remove it at any time without worrying about compatibility issues.
 
 ## API
 
